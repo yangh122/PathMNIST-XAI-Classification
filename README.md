@@ -39,7 +39,7 @@ We follow a structured modeling progression:
   * Accuracy: **~98%** (best performance)
 
 <p align="center">
-  <img src="Figure\accuracy_comparison.png.png" width="600"/>
+  <img src="Figure\accuracy_comparison.png" width="600"/>
 </p>
 
 ---
