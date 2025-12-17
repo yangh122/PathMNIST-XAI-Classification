@@ -97,7 +97,6 @@ These methods highlight the image regions most influential to each prediction, a
 │   ├── pathminst_9_classes.png
 ├── xai_outputs_cnn/
 ├── xai_outputs_resnet/
-├── report.pdf
 └── README.md
 ```
 
