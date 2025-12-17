@@ -14,7 +14,7 @@ This work was developed as part of **ECE1513 – Introduction to Machine Learnin
 * Balanced class distribution
 
 <p align="center">
-  <img src="figures/pathmnist_samples.png" width="600"/>
+  <img src="Figure\pathmnist_9_classes.png" width="600"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ We follow a structured modeling progression:
   * Accuracy: **~98%** (best performance)
 
 <p align="center">
-  <img src="figures/accuracy_comparison.png" width="600"/>
+  <img src="Figure\accuracy_comparison.png.png" width="600"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@ To ensure interpretability in clinical contexts, we apply:
 These methods highlight the image regions most influential to each prediction, allowing visual inspection of model reasoning.
 
 <p align="center">
-  <img src="figures/gradcam_comparison.png" width="600"/>
+  <img src="xai_outputs_resnet\example_0.png" width="600"/>
 </p>
 
 ---
