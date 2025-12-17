@@ -90,12 +90,13 @@ These methods highlight the image regions most influential to each prediction, a
 
 ```
 .
-├── notebooks/
-│   └── ECE1513_Project.ipynb
-├── figures/
-│   ├── pathmnist_samples.png
-│   ├── accuracy_comparison.png
-│   └── gradcam_comparison.png
+├── PathMNIST-XAI-Classification/
+│   └── PathMNIST-XAI-Classification.ipynb
+├── Figure/
+│   ├── accuracy_comparison.png.png
+│   ├── pathminst_9_classes.png
+├── xai_outputs_cnn/
+├── xai_outputs_resnet/
 ├── report.pdf
 └── README.md
 ```
